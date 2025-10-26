@@ -5,7 +5,7 @@ from pathlib import Path
 st.set_page_config(page_title="Sales Forecasting", page_icon="📈", layout="wide")
 
 st.title("📈 2Sales Forecasting for Small Businesses")
-
+st.image("sale pich.jpeg")
 st.markdown(
     """
 **🎯 Objectives**
